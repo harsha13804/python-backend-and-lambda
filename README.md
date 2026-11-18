@@ -10,4 +10,3 @@ curl -X PUT http://localhost:5000/users/1 \
 -d '{"name":"Harsha Reddy","email":"harsha123@gmail.com"}'
 
 curl -X DELETE http://localhost:5000/users/1
-'''
